@@ -5,7 +5,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/rodrigopero/kindle-api-go.svg)](https://pkg.go.dev/github.com/rodrigopero/kindle-api-go)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
-This is a Go port of [kindle-api](https://github.com/transitive-bullshit/kindle-api) by [Travis Fischer](https://x.com/transitive_bs).
+This is a Go port of [kindle-api](https://github.com/transitive-bullshit/kindle-api) by [Travis Fischer](https://x.com/transitive_bs). (Images shamelessly stolen from the original repo.)
 
 - [Intro](#intro)
 - [Install](#install)
