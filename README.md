@@ -90,7 +90,7 @@ Amazon's login system is strict and SMS 2FA makes automating logins difficult. I
 
 Open DevTools on [read.amazon.com](https://read.amazon.com), go to the **Network** tab, and copy the `Cookie` header from any request.
 
-![cookies in the network panel](./kindle-api/assets/cookie-demonstration.png)
+![cookies in the network panel](./assets/cookie-demonstration.png)
 
 ### Device Token
 
@@ -100,7 +100,7 @@ You also need the `deviceToken` for your Kindle. Find it in the same Network tab
 https://read.amazon.com/service/web/register/getDeviceToken?serialNumber=(your-token)&deviceType=(your-token)
 ```
 
-![device token network request](./kindle-api/assets/kindle-device-token.png)
+![device token network request](./assets/kindle-device-token.png)
 
 Both parameters (`serialNumber` and `deviceType`) have the same value.
 
